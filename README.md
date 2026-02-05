@@ -1,2 +1,8 @@
-# Targan_bot
-git add serekbol_bot.py git commit -m "SEREKBOL BOT - CMP Hack System" git push origin main
+# Бүх файлуудыг нэмэх
+git add .
+
+# Commit хийх
+git commit -m "SEREKBOL BOT - Full CPM Hack System with README"
+
+# Push хийх
+git push origin main
